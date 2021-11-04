@@ -1,0 +1,107 @@
+[
+    {
+        "title": "Introduction to Python",
+        "content": " The most sought after programming Language in the world!\r\n\r\nThis is Exciting",
+        "user_id": 2
+    },
+    {
+        "title": "Django vs Flask",
+        "content": " Which Modern day language provides the users with more control over his project",
+        "user_id": 2
+    },
+    {
+        "title": "My Django Journey",
+        "content": " My Personal story guide to becoming a very great web-developer",
+        "user_id": 1
+    },
+    {
+        "title": "Greatest Programmers Of Out Time",
+        "content": " This is an opinionated lkist of some of the greatest programmers that have graced the earth",
+        "user_id": 2
+    },
+    {
+        "title": "Web Development or Web Design",
+        "content": "Which of the following aspect of programming is now more sought After",
+        "user_id": 1
+    },
+    {
+        "title": "Microsoft Support For Programming",
+        "content": "Microsoft is one of the leading Tech-companies committed to supporting the growth of technical knowledge.",
+        "user_id": 3
+    },
+    {
+        "title": "Aspects of Programming",
+        "content": "Pick what you do with your programming today.",
+        "user_id": 1
+    },
+    {
+        "title": "Different Programming Languages",
+        "content": " Choose from a range of vast programming languages bearing in mind what they are mainly used for.",
+        "user_id": 2
+    },
+    {
+        "title": "CSS VS Bootstrap",
+        "content": "Which is more useful to learn and gives you the control you need over your designs.",
+        "user_id": 1
+    },
+    {
+        "title": "Java For Android",
+        "content": "Find out why this language thrives in mobile development",
+        "user_id": 2
+    },
+    {
+        "title": "Sublime Text Tips and Tricks",
+        "content": "Get acquainted with easy-to-use shortcuts that ensure an easire and faster development environment.",
+        "user_id": 1
+    },
+    {
+        "title": "Microsoft Visual Studio Cheats",
+        "content": "Trust me, this tips are easy and fun to learn. There are no regrets",
+        "user_id": 2
+    },
+    {
+        "title": "Top 5 Proramming Languages",
+        "content": " The most sought after programming Language in the world!\r\n\r\nThis is Exciting",
+        "user_id": 2
+    },
+    {
+        "title": "PHP: The Odyssey",
+        "content": "This is a Personal research that reveals the beauty behind PHP",
+        "user_id": 2
+    },
+    {
+        "title": "CSS: The Futurre is Now?",
+        "content": "With over 50 million users, trust me, this is the place to be!",
+        "user_id": 1
+    },
+    {
+        "title": "Terminals vs Console",
+        "content": "Which is easier to use or should i say easier to Understand?",
+        "user_id": 2
+    },
+    {
+        "title": "Djnago",
+        "content": "The Modern day web-development Framework. (My Personal Favourite!)",
+        "user_id": 1
+    },
+    {
+        "title": "Python: The Unveiling",
+        "content": " The most sought after programming Language in the world!\r\n\r\nThis is Exciting",
+        "user_id": 2
+    },
+    {
+        "title": "Introduction to Python 3",
+        "content": "The Change Maker is here. Explore the joy of Programming!",
+        "user_id": 1
+    },
+    {
+        "title": "Introduction to Web-design",
+        "content": " This is strictly a beginner's class that requires no prior knowledge of Designing.",
+        "user_id": 2
+    },
+    {
+        "title": "Javascript vs Kotlin",
+        "content": "Which is more user- friendly? Find all your Answers Here.",
+        "user_id": 1
+    }
+]
